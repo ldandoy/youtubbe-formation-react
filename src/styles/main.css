@@ -1,0 +1,29 @@
+* {
+	margin:  0;
+	padding:  0;
+	box-sizing: border-box;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+}
+
+a {
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	color:  navy;
+}
+
+.container {
+	width:  80%;
+	margin:  auto;
+}
+
+input[type= "text"], textarea {
+	width: 100%;
+	padding:  10px;
+	margin: 10px 0;
+
+}
